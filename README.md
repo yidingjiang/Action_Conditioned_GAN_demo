@@ -66,6 +66,7 @@ Twice action Frames:
 ![Animation](https://github.com/yidingjiang/Action_Conditioned_GAN_demo/blob/master/2x_sample/vid35/generated.gif)
 ![Animation](https://github.com/yidingjiang/Action_Conditioned_GAN_demo/blob/master/2x_sample/vid53/generated.gif)
 ![Animation](https://github.com/yidingjiang/Action_Conditioned_GAN_demo/blob/master/2x_sample/vid58/generated.gif)
+![Animation](https://github.com/yidingjiang/Action_Conditioned_GAN_demo/blob/master/2x_sample/vid3/generated.gif)
 
 Regular action Generated Frames:
 
@@ -73,6 +74,7 @@ Regular action Generated Frames:
 ![Animation](https://github.com/yidingjiang/Action_Conditioned_GAN_demo/blob/master/regular_sample/vid35/generated.gif)
 ![Animation](https://github.com/yidingjiang/Action_Conditioned_GAN_demo/blob/master/regular_sample/vid53/generated.gif)
 ![Animation](https://github.com/yidingjiang/Action_Conditioned_GAN_demo/blob/master/regular_sample/vid58/generated.gif)
+![Animation](https://github.com/yidingjiang/Action_Conditioned_GAN_demo/blob/master/regular_sample/vid3/generated.gif)
 
 Ground Truth:
 
@@ -80,3 +82,4 @@ Ground Truth:
 ![Animation](https://github.com/yidingjiang/Action_Conditioned_GAN_demo/blob/master/regular_sample/vid35/gt.gif)
 ![Animation](https://github.com/yidingjiang/Action_Conditioned_GAN_demo/blob/master/regular_sample/vid53/gt.gif)
 ![Animation](https://github.com/yidingjiang/Action_Conditioned_GAN_demo/blob/master/regular_sample/vid58/gt.gif)
+![Animation](https://github.com/yidingjiang/Action_Conditioned_GAN_demo/blob/master/regular_sample/vid3/gt.gif)
