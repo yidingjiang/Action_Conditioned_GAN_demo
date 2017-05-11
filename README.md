@@ -1,5 +1,5 @@
 # Action Conditioned GAN Demo
-Demo GIF of samples from action conditioned GAN
+Demo GIF of samples from action conditioned GAN. All predictions here are made by recursively sample 6 times from the generator network, which is equivalent of 12 frames into the future.
 
 **Samples with regular actions**:
 
