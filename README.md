@@ -1,5 +1,5 @@
 # Action Conditioned GAN Demo
-Demo GIF of samples from action condtioned GAN
+Demo GIF of samples from action conditioned GAN
 
 **Samples with regular actions**:
 
