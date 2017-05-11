@@ -26,7 +26,7 @@ Ground Truth:
 The generator generate different motion on reversed action even though it was never trained on such action. 
 This demosntrates that the neural network has some level of understanding of the dynamics.
 
-Reverse Frames:
+Reverse Action Frames:
 
 ![Animation](https://github.com/yidingjiang/Action_Conditioned_GAN_demo/blob/master/rev_example/vid14/generated.gif)
 ![Animation](https://github.com/yidingjiang/Action_Conditioned_GAN_demo/blob/master/rev_example/vid23/generated.gif)
